@@ -40,3 +40,10 @@
     margin-right: 25px;
     right: -10px;
 }
+
+/* At the top level of your code */
+@media screen and (max-width: 600px) {
+  .header {
+    font-size: 30px;
+  }
+}
