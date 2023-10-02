@@ -42,8 +42,16 @@
 }
 
 /* At the top level of your code */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .header {
     font-size: 30px;
   }
 }
+
+@media screen and (max-width: 800px) {
+  img {
+    height: 100px;
+    width:100px;
+  }
+}
+
